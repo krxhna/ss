@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938130248854",
+    "firebase_url": "https://ssapp-17490.firebaseio.com",
+    "project_id": "ssapp-17490",
+    "storage_bucket": "ssapp-17490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938130248854:android:4490d98057d6bd0bd1deb7",
+        "android_client_info": {
+          "package_name": "com.krxhna.ss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938130248854-1lutb90m1spsevfmv415sl320oj8ib0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krxhna.ss",
+            "certificate_hash": "82f96c246e8a846841c8164b5f31a0f8de0e9581"
+          }
+        },
+        {
+          "client_id": "938130248854-4imdmkuvbtnnqoom7aiju36veahvcv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfm-vH-1LsBi6HPNSgPH-8_rwrW5FUfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938130248854-4imdmkuvbtnnqoom7aiju36veahvcv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
